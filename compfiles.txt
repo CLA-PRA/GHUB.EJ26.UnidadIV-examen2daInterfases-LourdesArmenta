@@ -1,11 +1,5 @@
 ./miTest/AppTest.java
 ./miPrincipal/Principal.java
-./logica/CriterioPacCURP.java
-./logica/CriterioPacNombre.java
 ./logica/Paciente.java
 ./logica/Fecha.java
-./logica/Identificable.java
 ./logica/Util.java
-./logica/Criterio.java
-./logica/CriterioPacEdad.java
-./logica/Comparable.java
